@@ -1,0 +1,3 @@
+[submodule "forecasting"]
+	path = forecasting
+	url = https://github.com/cameronthurston/forecasting.git
